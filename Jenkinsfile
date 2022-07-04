@@ -11,7 +11,7 @@ pipeline
                 {
                     try
                     {
-                        git 'https://github.com/agehma/mavenproject.git'
+                        git 'https://github.com/agehma/mvnmonday1.git'
                     }
                     catch (Exception e1)
                     {
